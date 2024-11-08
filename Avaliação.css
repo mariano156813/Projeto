@@ -1,0 +1,45 @@
+body {
+  background-image: url(WhatsApp\ Image\ 2024-11-01\ at\ 16.35.56.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#inicio {
+  color: #8EC174;
+  font-size: 1.5em;
+}
+
+#sobremim {
+  color: #7ED957;
+  font-size: 2.2em;
+}
+
+#Projeto1 {
+  text-align: left;
+  color: #FFDE59;
+  font-size: 2em;
+}
+
+#Projeto2 {
+  text-align: left;
+  color: #c9723c;
+  font-size: 2em;
+}
+
+#Projeto3 {
+  text-align: left;
+  color: #FF914D;
+  font-size: 2em;
+}
+
+#Ftitulo {
+  text-align: left;
+  color: #FFDE59;
+  font-size: 3.2em;
+}
+
+#Rpe {
+  text-align: right !important;
+  color: #FFDE59;
+  font-size: 3.2em;
+}
